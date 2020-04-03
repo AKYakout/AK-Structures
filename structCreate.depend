@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584211740 source:e:\.idea\codeblocks\amit\structcreate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dLinkedList.h"
+
+1584209050 e:\.idea\codeblocks\amit\structcreate\dlinkedlist.h
+
+1584210777 source:e:\.idea\codeblocks\amit\structcreate\dlinkedlist.c
+	"dLinkedList.h"
+	<stdio.h>
+
